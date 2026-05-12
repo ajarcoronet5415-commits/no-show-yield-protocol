@@ -1,2 +1,1 @@
-# no-show-yield-protocol
-DeFi protocol that converts service industry no-show rates into yield. Deposit-backed booking, insurance pool, LP staking.
+# No-Show Yield Protocol\n\nConvert service industry no-show rates into DeFi yield.\n\n## Overview\nNSYP captures the 15-30% no-show rate at service businesses as structured yield. Clients pay refundable deposits, LPs earn from captured no-shows + insurance premiums.\n\n## Repo Structure\n- WHITEPAPER.md - Full protocol specification\n- contracts/ - Solidity smart contracts\n- docs/ - Technical documentation\n\n## Support\n- [GitHub Sponsors](https://github.com/sponsors/ajarcoronet5415-commits)\n- [PayPal](https://ajarcoronet5415-commits.github.io/security-audit-portfolio/)\n\n## License\nMIT
